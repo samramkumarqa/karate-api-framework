@@ -1,0 +1,7 @@
+{
+  "rating": "#number? _ >= 1 && _ <= 5",
+  "comment": "#string",
+  "date": "#string",
+  "reviewerName": "#string",
+  "reviewerEmail": "#regex .+@.+"
+}

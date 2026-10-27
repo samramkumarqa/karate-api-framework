@@ -1,0 +1,10 @@
+{
+  "id": "#number",
+  "title": "#string",
+  "price": "#number",
+  "quantity": "#number? _ > 0",
+  "total": "#number",
+  "discountPercentage": "#number",
+  "discountedPrice": "#number",
+  "thumbnail": "#string"
+}
